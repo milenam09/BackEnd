@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConcatFor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95b360052b340be3d4fccae8ae450a979d563507")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ce19f8274ecb1ae97b56e0c16375e5aa9f3c817")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConcatFor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConcatFor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
