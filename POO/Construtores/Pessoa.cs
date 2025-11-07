@@ -13,6 +13,13 @@ namespace Construtores
             Idade = i;
         }
 
+        public Pessoa(string n, int i, string xpto)
+        {
+            Nome = n;
+            Idade = i;
+            Console.WriteLine($"Seu texto e: {xpto}");
+            
+        }
 
 
         public void ExibirDados()

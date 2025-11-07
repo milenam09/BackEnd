@@ -8,10 +8,10 @@ namespace Construtores
 
         public int Ano;
 
-        public Carro(string n, int i)
+        public Carro(string n,string m, int i)
         {
             Marca = n;
-            Modelo = n;
+            Modelo = m;
             Ano = i;
         }
 

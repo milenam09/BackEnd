@@ -2,20 +2,37 @@
 
 using Construtores;
 
-// Console.Clear();
+Console.Clear();
 
-// Pessoa Guilherme = new Pessoa("Guilherme Vieira", 16);
+// Pessoa Guilherme = new Pessoa("Guilherme", 16, "Gosto da minha namorada");
+// Pessoa Milena = new Pessoa("Milena Mares", 17);
 
-// Pessoa Milena = new Pessoa();
 // Milena.Nome = "Milena Mares";
 // Milena.Idade = 17;
 
 // Guilherme.ExibirDados();
 // Milena.ExibirDados();
 
-Carro HondaFit = new Carro();
-HondaFit.Marca = "HondaFit";
-HondaFit.Modelo = "Ret";
-HondaFit.Ano = 2012;
+// Carro HondaFit = new Carro("Hondafit", "Ret", 2012);
 
-HondaFit.ExibirDados();
+// HondaFit.ExibirDados();
+
+
+// Aluno Guilherme = new Aluno("Guilherme", 10);
+// Aluno Milena = new Aluno("Milena", 10);
+
+//  Guilherme.ExibirDados();
+//  Milena.ExibirDados();
+
+Console.WriteLine($"===================");
+Console.WriteLine($"|     Produtos    |");
+Console.WriteLine($"===================");
+Console.WriteLine();
+
+Produto Base = new Produto("Ruby Rose", 39.99f, 190);
+Produto Blush = new Produto("Ruby Rose", 20.99f, 200);
+Produto Serum = new Produto("Creamy", 78.99f, 300);
+
+Base.ExibirDados();
+Blush.ExibirDados();
+Serum.ExibirDados();
