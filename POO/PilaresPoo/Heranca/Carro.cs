@@ -1,15 +1,15 @@
 namespace Heranca
 {
-    public class Carro : Veiculos
+    public class Carro : Veiculo
     {
         public int QtdPortas;
 
         public void ExibirInfo()
         {
-            Console.Writine($"Marca: {Marca}");
-            Console.Writine($"Modelo: {Modelo}");
-            Console.Writine($"Ano: {Ano}");
-            Console.Writine($"Quantas portas: {QtdPortas}");
+            Console.WriteLine($"Marca: {Marca}");
+            Console.WriteLine($"Modelo: {Modelo}");
+            Console.WriteLine($"Ano: {Ano}");
+            Console.WriteLine($"Quantas portas: {QtdPortas}");
         }
     }
 }

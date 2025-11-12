@@ -3,3 +3,13 @@ C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Heranca\obj\Debug\net9.
 C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Heranca\obj\Debug\net9.0\Heranca.AssemblyInfo.cs
 C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Heranca\obj\Debug\net9.0\Heranca.csproj.CoreCompileInputs.cache
 C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Heranca\obj\Debug\net9.0\Heranca.sourcelink.json
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Heranca\bin\Debug\net9.0\Heranca.exe
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Heranca\bin\Debug\net9.0\Heranca.deps.json
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Heranca\bin\Debug\net9.0\Heranca.runtimeconfig.json
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Heranca\bin\Debug\net9.0\Heranca.dll
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Heranca\bin\Debug\net9.0\Heranca.pdb
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Heranca\obj\Debug\net9.0\Heranca.dll
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Heranca\obj\Debug\net9.0\refint\Heranca.dll
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Heranca\obj\Debug\net9.0\Heranca.pdb
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Heranca\obj\Debug\net9.0\Heranca.genruntimeconfig.cache
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Heranca\obj\Debug\net9.0\ref\Heranca.dll
