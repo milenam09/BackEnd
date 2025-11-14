@@ -1,0 +1,15 @@
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Abstração\Exemplo\bin\Debug\net9.0\Exemplo.exe
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Abstração\Exemplo\bin\Debug\net9.0\Exemplo.deps.json
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Abstração\Exemplo\bin\Debug\net9.0\Exemplo.runtimeconfig.json
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Abstração\Exemplo\bin\Debug\net9.0\Exemplo.dll
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Abstração\Exemplo\bin\Debug\net9.0\Exemplo.pdb
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Abstração\Exemplo\obj\Debug\net9.0\Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Abstração\Exemplo\obj\Debug\net9.0\Exemplo.AssemblyInfoInputs.cache
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Abstração\Exemplo\obj\Debug\net9.0\Exemplo.AssemblyInfo.cs
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Abstração\Exemplo\obj\Debug\net9.0\Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Abstração\Exemplo\obj\Debug\net9.0\Exemplo.sourcelink.json
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Abstração\Exemplo\obj\Debug\net9.0\Exemplo.dll
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Abstração\Exemplo\obj\Debug\net9.0\refint\Exemplo.dll
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Abstração\Exemplo\obj\Debug\net9.0\Exemplo.pdb
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Abstração\Exemplo\obj\Debug\net9.0\Exemplo.genruntimeconfig.cache
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Abstração\Exemplo\obj\Debug\net9.0\ref\Exemplo.dll
