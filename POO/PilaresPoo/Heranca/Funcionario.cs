@@ -2,8 +2,19 @@ namespace Heranca
 {
     public class Funcionario
     {
-        public string Nome;
+        public string nome;
+        public double salarioBase;
 
-        public int SalarioBase;
+        public double CalcularSalario()
+        {
+            return salarioBase + (salarioBase * 25 / 100);
+        }
+
+        public void ExibirSalario()
+        {
+            double salarioTotal = CalcularSalario();
+            Console.WriteLine($"Salario Base: {salarioBase}");
+            Console.WriteLine($"Salario Total: {salarioTotal}");
+        }
     }
 }
