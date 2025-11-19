@@ -1,0 +1,15 @@
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Interface\Exemplos\ExerciciosInterface\Exercicios02\bin\Debug\net9.0\Exercicios02.exe
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Interface\Exemplos\ExerciciosInterface\Exercicios02\bin\Debug\net9.0\Exercicios02.deps.json
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Interface\Exemplos\ExerciciosInterface\Exercicios02\bin\Debug\net9.0\Exercicios02.runtimeconfig.json
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Interface\Exemplos\ExerciciosInterface\Exercicios02\bin\Debug\net9.0\Exercicios02.dll
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Interface\Exemplos\ExerciciosInterface\Exercicios02\bin\Debug\net9.0\Exercicios02.pdb
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Interface\Exemplos\ExerciciosInterface\Exercicios02\obj\Debug\net9.0\Exercicios02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Interface\Exemplos\ExerciciosInterface\Exercicios02\obj\Debug\net9.0\Exercicios02.AssemblyInfoInputs.cache
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Interface\Exemplos\ExerciciosInterface\Exercicios02\obj\Debug\net9.0\Exercicios02.AssemblyInfo.cs
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Interface\Exemplos\ExerciciosInterface\Exercicios02\obj\Debug\net9.0\Exercicios02.csproj.CoreCompileInputs.cache
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Interface\Exemplos\ExerciciosInterface\Exercicios02\obj\Debug\net9.0\Exercicios02.sourcelink.json
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Interface\Exemplos\ExerciciosInterface\Exercicios02\obj\Debug\net9.0\Exercicios02.dll
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Interface\Exemplos\ExerciciosInterface\Exercicios02\obj\Debug\net9.0\refint\Exercicios02.dll
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Interface\Exemplos\ExerciciosInterface\Exercicios02\obj\Debug\net9.0\Exercicios02.pdb
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Interface\Exemplos\ExerciciosInterface\Exercicios02\obj\Debug\net9.0\Exercicios02.genruntimeconfig.cache
+C:\Users\47269169802\Desktop\BackEndMoura\POO\PilaresPoo\Interface\Exemplos\ExerciciosInterface\Exercicios02\obj\Debug\net9.0\ref\Exercicios02.dll
