@@ -35,9 +35,10 @@ namespace CrudMoura.Controllers
         [HttpPost]
         public IActionResult SalvarFrutas(Frutas frutaCadastrada)
         {
+            frutaCadastrada.Id = ListaDeFrutas.Max(f => f.Id) + 1;
+
             ListaDeFrutas.Add(frutaCadastrada);
 
-            Console.WriteLine(frutaCadastrada);
             return RedirectToAction(nameof (ListarFrutas));
         }
 
