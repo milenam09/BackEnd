@@ -1,0 +1,202 @@
+/*primeira*/
+@import url('https://fonts.googleapis.com/css2?family=GFS+Didot&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+/*segunda fonte*/
+@font-face {
+    font-family: GFs;
+    src: url(../assets/fonts/GFS_Didot/GFSDidot-Regular.ttf),        
+}
+
+/* @font-face {
+    font-family: Raleway;
+    src: url(../assets/fonts/Raleway/Raleway-Italic-VariableFont_wght.ttf)
+    url(../assets/fonts/Raleway/Raleway-VariableFont_wght.ttf),
+} */
+
+:root{
+    --cor--branco:#ffffff;
+    --cor--preto:#000000;
+    --cor--azul-claro2:#7DA0CA;
+    --cor--azul-claro3:#5483B3;
+    --cor--azul-escuro:#052659;
+    --cor--cinza-escuro:#4A5C6A;
+    --cor-cinza-claro:#E1E7EB;
+    --cor-cinza-claro2:#A8A8A8;
+    --cor--azul-claro1:#C1E8FF;
+   
+    
+
+    --borda: 1px solid var(--cor--preto);
+    --borda-arredondada: 2px;
+
+    --tamanho-fonte-lg: 20px;
+    --tamanho-fonte-md: 16px;
+    --tamanho-fonte-sm: 14px;
+}
+
+*{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+   font-family: "Raleway", sans-serif;
+   outline-color: #052659;
+}
+
+h1{
+   position: absolute;
+   z-index: -1;
+   opacity: 0;
+}
+
+
+
+body{
+   background-color: var(--cor-cinza-claro);
+}
+
+/*formulario*/
+.formulario-botao-azul{
+    background-color: var(--cor--azul-claro3);
+    border-radius: var(--borda-arredondada);
+    border: none;
+    height: 35px;
+
+    color: var(--cor--branco);
+    font-size: var(--tamanho-fonte-sm);
+}
+
+.formulario-campos > input{
+    border: var(--borda);
+    height: 35px;
+    background-color: var(--cor-cinza-claro);
+
+    color: var(--cor--cinza-escuro);
+    font-size: var(--tamanho-fonte-sm);
+    border-radius: var(--borda-arredondada);
+}
+
+.formulario-botao-cadastro{
+    background-color: var(--cor--azul-claro3);
+    border-radius: var(--borda-arredondada);
+    border: none;
+    height: 35px;
+
+    color: var(--cor--branco);
+    font-size: var(--tamanho-fonte-sm);
+}
+
+.estilo-formulario{
+    width: 100%;
+    background-color: var(--cor--azul-claro1);
+    border: var(--borda);
+}
+
+#campo-upload {
+    display: none;
+    
+}
+
+#texto-upload{
+    display: inline-block;
+    width: 100%;
+    max-width: 300px;
+    min-width:35px;
+    background-color: #e1e7eb;
+    padding: 5px;
+    border-radius: var(--borda-arredondada);
+    text-align: center;
+    font-weight: 500;
+   
+}
+
+
+#cabecalho{
+    background-color: #C1E8FF;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    border-bottom: var(--borda);
+}
+
+#cabecalho>nav{
+    background-color: #C1E8FF;
+    width: 85%;
+    max-width: 900px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#logo-mobile{
+    display: none;
+}
+
+.cabecalho-acoes{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+#cabecalho-acoes>a{
+    display: flex;
+    align-items: center;
+}
+
+#foto-de-perfil-cabecalho{
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+}
+
+
+.foto-perfil-sm{
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+}
+
+
+.foto-perfil{
+    width: 85px;
+    height: 85px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+}
+
+
+
+/*RESPONSIVO*/
+
+@media only screen and (max-width: 500px){
+
+    .perfil-info {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .perfil-estatisticas {
+        flex-direction: row;
+        justify-content: center;
+        gap: 15px;
+    }
+
+    .botao-bio {
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+    }
+
+    .posts {
+        width: 95%;
+    }
+}
+
+
